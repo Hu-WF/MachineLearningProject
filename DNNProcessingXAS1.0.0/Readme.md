@@ -1,4 +1,4 @@
-# 1.初步完成
+## 1.初步完成
 # 1.该项目的核心功能基于python中sklearn、pandas、numpy、scipy、matplotlib等机器学习或数据分析API编写，API对应网址：
 	①.http://scikit-learn.org/stable/
 	②.http://pandas.pydata.org/
