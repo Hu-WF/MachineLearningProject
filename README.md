@@ -11,3 +11,7 @@
             ⑤.对曲线进行分析、对PCA结果进行分析；
             ⑥.预测给定txt文件的分类类别。
     ————用TKinter将代码封装成GUI，并用pyinstaller生成exe文件。
+### Project4.MLDLProcessingXAS4.0.0（2019-03-14）
+    ————程序相对于2.1.0有如下改动：
+            ①.对部分细节进行优化，如对光谱横坐标进行变换；支持中文label；
+            ②.新增dlAPI模块，新增SAE和CNN算法，目前CNN暂不支持cross-validation；
