@@ -15,3 +15,4 @@
     ————程序相对于2.1.0有如下改动：
             ①.对部分细节进行优化，如对光谱横坐标进行变换；支持中文label；
             ②.新增dlAPI模块，新增SAE和CNN算法，目前CNN暂不支持cross-validation；
+            ③.优化training.py模块，使DL算法与ML评估算法兼容；增加端到端DNN算法。
